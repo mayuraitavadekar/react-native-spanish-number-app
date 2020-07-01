@@ -3,4 +3,4 @@ A react native app which says english number in spanish language. a dumb one, re
 
 ## sample
 
-[]("https://github.com/mayuraitavadekar/react-native-spanish-number-app/blob/master/screenshot1.png")
+[](https://github.com/mayuraitavadekar/react-native-spanish-number-app/blob/master/screenshot1.png)
